@@ -1,2 +1,2 @@
 # CarbonShare
-Introducing CommuteShare – the app that connects commuters for an eco-friendly ride. 
+Introducing CommuteShare – the app that connects commuters for an eco-friendly ride. With CommuteShare, you can easily find and share rides with fellow commuters, reducing traffic congestion and minimizing your carbon footprint. Plus, with our innovative use of blockchain technology, companies can offset their carbon emissions by purchasing CommuteShare tokens. It's a win-win for everyone - you get a convenient and affordable way to commute, and companies get a simple and effective way to reduce their environmental impact.
