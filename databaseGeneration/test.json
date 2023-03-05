@@ -1,0 +1,32 @@
+'{
+    "distance": 63142,
+    "rideId": "K3QESZ1M",
+    "driver": {
+        "messages": [],
+        "password": "IWXFHQLY",
+        "wallet_address": "kh39oz4kii7xvi5mt5vhfokbacw0dsdz3hqlhycw91",
+        "name": "Christy Day"
+    },
+    "startTime": "2022-10-16T11:45:57",
+    "endTime": "2022-10-16T12:52:57",
+    "riders": [
+        {
+            "messages": [],
+            "password": "6YY3B72L",
+            "wallet_address": "irtjbb3e0cwjcj168p19267luldwkzgaq6kpligoxy",
+            "name": "David Hammond"
+        },
+        {
+            "messages": [],
+            "password": "IN4F99UR",
+            "wallet_address": "hpdsiznh89pl3jzf1w6bev6g02jb9mqqamelajh03q",
+            "name": "Alexandria Wood"
+        },
+        {
+            "messages": [],
+            "password": "E8AU9SE1",
+            "wallet_address": "1w2fjzc1rgy21jh66mm4a29wt8rjix24msi68pbyi2",
+            "name": "Debra Miller"
+        }
+    ]
+}'
