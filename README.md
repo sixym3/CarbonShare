@@ -29,10 +29,11 @@ Make sure to use Python 2.7 to run the system.
 ## Micro Services
 ### smartContractMicroServices
 Python script that checks for updates in the database and send transactions to the smart contract hosted in the EVM. 
+
 Solidity source files and truffle components to help deploy the smart contract.
 
 ### databaseGeneration
-Database Mock Data Generation files
+Python script to help generate Mock Data for the MongoDB database.
 
 # Contributing
 We welcome contributions from the community. Please feel free to open a pull request or submit an issue if you encounter any problems or have any suggestions for improvement.
